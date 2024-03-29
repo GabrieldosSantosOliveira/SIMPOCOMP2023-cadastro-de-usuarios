@@ -21,7 +21,7 @@
   "homepage": "https://github.com/byPedroCruzDev/SIMPOCOMP2023-cadastro-de-usuarios#readme",
   "dependencies": {
     "bcrypt": "^5.1.1",
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "uuid": "^9.0.1",
     "zod": "^3.22.4"
   },
